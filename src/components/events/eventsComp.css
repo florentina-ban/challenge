@@ -1,0 +1,21 @@
+#addEventList{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid yellow;
+}
+.selectItems{
+    width: 60% !important;
+    height: 25px !important;
+    text-align: right;
+}
+.toggleClass {
+    --background: #a81002;
+    --background-checked: #0d8003;
+  
+    --handle-background: yellow;
+    --handle-background-checked: yellow;
+  }
+.border{
+    border: 2px solid green;
+    margin: 0 auto;
+}
